@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#gora{
+    background-color: #6A0DAD;
+    color: #2F9750;
+    height: 90px;
+    width: 100%;
+    text-align: center;
+    border-bottom: 5px solid #8949b6;
+}
+.glownynapis{
+    padding: 10px;
+    border-radius: 45px;
+    width: 450px;
+    font-size: 30px;
+    display: block;
+    line-height: 65px;
+}
+
+#glowna{
+    background-image: url(images/tlogifgwiazdy.gif);
+    background-repeat: repeat;
+}
